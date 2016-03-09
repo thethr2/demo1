@@ -1,2 +1,7 @@
 Første tekst dokument
+<<<<<<< HEAD
 Baconfedt ZyberShield
+=======
+
+Th: Hvad sker der for stærk mad??
+>>>>>>> c6c1ceb6653d99d034d620fce481177272298ffb
